@@ -1,4 +1,4 @@
-<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width='400' align="center"/><h2>Hey there! I'm Shlok Jagtap 👋</h2>
+<img alt="Coding" src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&ved=0CBQQjRxqFwoTCJClkbui05EDFQAAAAAdAAAAABAe&opi=89978449" width='400' align="center"/><h2>Hey there! I'm Shlok Jagtap 👋</h2>
 
 ### 👨‍💻 About Me
 
