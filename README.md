@@ -1,8 +1,4 @@
-<img
-  src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/coding.gif"
-  alt="Coding"
-  style="width:100%; max-width:100%;"
-/>
+<img alt="Coding" src="[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif](https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Hello.gif)" width='40' align="left"/>
 
 ### 👨‍💻 About Me
 
