@@ -1,4 +1,8 @@
-<img alt="Coding" src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&ved=0CBQQjRxqFwoTCJClkbui05EDFQAAAAAdAAAAABAe&opi=89978449" width='400' align="center"/><h2>Hey there! I'm Shlok Jagtap 👋</h2>
+<img
+  src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/coding.gif"
+  alt="Coding"
+  style="width:100%; max-width:100%;"
+/>
 
 ### 👨‍💻 About Me
 
