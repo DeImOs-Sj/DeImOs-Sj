@@ -1,4 +1,4 @@
-<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width='40' align="left"/><h2>Hey there! I'm Shlok Jagtap 👋</h2>
+<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width='400' align="center"/><h2>Hey there! I'm Shlok Jagtap 👋</h2>
 
 ### 👨‍💻 About Me
 
@@ -12,7 +12,6 @@
 📫 Reach out: **shlokjagtap.0608@gmail.com**  
 ⚡ Fun fact: I've mentored 500+ students and delivered 20+ technical workshops on blockchain!
 
-<img alt="Blockchain Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
 
 ---
 
