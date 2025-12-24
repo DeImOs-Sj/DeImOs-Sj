@@ -285,16 +285,16 @@ const shlok = {
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/shlok-jagtap-5a8122228/">
     <img src="https://img.shields.io/badge/-Shlok%20Jagtap-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://x.com/jagtap_shlok">
     <img src="https://img.shields.io/badge/-@yourhandle-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
   <a href="mailto:shlokjagtap.0608@gmail.com">
     <img src="https://img.shields.io/badge/-shlokjagtap.0608@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://wondrous-peony-d54734.netlify.app/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
   <a href="https://github.com/DeImOs-Sj">
