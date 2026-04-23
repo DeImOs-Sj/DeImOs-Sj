@@ -229,26 +229,6 @@ Mentored **500+ students** across **20+ workshops** on smart contract security
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeImOs-Sj&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeImOs-Sj&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeImOs-Sj&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeImOs-Sj&theme=vue-dark&hide_border=false" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeImOs-Sj&theme=vue&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
 
 ### 📈 Current Focus
 
