@@ -36,5 +36,5 @@ Web3 gaming platform on XDC Network. Backend services, AI-assisted content gener
 
 - LinkedIn: [shlok-jagtap-5a8122228](https://www.linkedin.com/in/shlok-jagtap-5a8122228/)
 - X: [@jagtap_shlok](https://x.com/jagtap_shlok)
-- Portfolio: [wondrous-peony-d54734.netlify.app](https://shloktech.vercel.app/)
+- Portfolio: [Link](https://shloktech.vercel.app/)
 - Email: shlokjagtap.0608@gmail.com
